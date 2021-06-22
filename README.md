@@ -11,12 +11,18 @@ Enter your path to image instead of the "[Your path to image]" block
 e.g. python detect.py --image oranges.jpg
 
 It will give a pie graph first like this-
-!(pigraph.jpeg)
+
+!(https://github.com/aniroh/Orange-detection-and-detect-color-percentage
+/blob/master/pigraph.jpeg?raw=true)
+
 
 If you close the pie graph, the result image of oranges being detected will appear along with the percentages in command prompt-
-!(/result_img.jpeg)
 
-!(/cmdres.jpeg)
+!(https://github.com/aniroh/Orange-detection-and-detect-color-percentage
+/blob/master/result_img.jpeg?raw=true)
+
+!(https://github.com/aniroh/Orange-detection-and-detect-color-percentage
+/blob/master/cmdres.jpeg?raw=true)
 
 
 
