@@ -14,9 +14,9 @@ It will give a pie graph first like this-
 !(pigraph.jpeg)
 
 If you close the pie graph, the result image of oranges being detected will appear along with the percentages in command prompt-
-!(result_img.jpeg)
+!(/result_img.jpeg)
 
-!(cmdres.jpeg)
+!(/cmdres.jpeg)
 
 
 
