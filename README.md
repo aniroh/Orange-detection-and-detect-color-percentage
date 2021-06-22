@@ -12,13 +12,13 @@ e.g. python detect.py --image oranges.jpg
 
 It will give a pie graph first like this-
 
-!(https://github.com/aniroh/Orange-detection-and-detect-color-percentage/blob/main/pigraph.jpeg?raw=true)
+![](https://github.com/aniroh/Orange-detection-and-detect-color-percentage/blob/main/pigraph.jpeg?raw=true)
 
 If you close the pie graph, the result image of oranges being detected will appear along with the percentages in command prompt-
 
-!(https://github.com/aniroh/Orange-detection-and-detect-color-percentage/blob/main/result_img.jpeg?raw=true)
+![](https://github.com/aniroh/Orange-detection-and-detect-color-percentage/blob/main/result_img.jpeg?raw=true)
 
-!(https://github.com/aniroh/Orange-detection-and-detect-color-percentage/blob/main/cmdres.jpeg?raw=true)
+![](https://github.com/aniroh/Orange-detection-and-detect-color-percentage/blob/main/cmdres.jpeg?raw=true)
 
 
 
